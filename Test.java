@@ -6,6 +6,8 @@ public class Test{
         System.out.println("welcome");
         System.out.println("devops");
         int tot=a+b+c;
-        System.out.println("total:"+tot)
+        System.out.println("total:"+tot);
+        double avg=tot/3;
+        System.out.println("avg:"+avg);
     }
 }
